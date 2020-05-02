@@ -1,0 +1,8 @@
+## Title: Auto Ding
+## Version: 1.0.1
+## Description: Automatically sends a message to guild chat when you level up.
+## Author: Ghost Wolf
+## Reworked from the original "Ding" by VJain
+
+AutoDing.xml
+AutoDing.lua
